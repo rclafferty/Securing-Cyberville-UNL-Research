@@ -1,0 +1,80 @@
+7/31/2017 8:55:13 AM - Player - Player loads the game
+7/31/2017 8:55:23 AM - Player - Player enters Home
+7/31/2017 8:55:23 AM - Player - Player starts the game
+7/31/2017 8:55:29 AM - Player - Player enters City_hall_3
+-----
+7/31/2017 9:18:51 AM - Player - Player loads the game
+7/31/2017 9:18:54 AM - Player - Player enters Home
+7/31/2017 9:18:56 AM - Player - Player enters City Hall
+7/31/2017 9:19:06 AM - Player - Player selects shop option --> AnswerText1 (UnityEngine.UI.Text)
+7/31/2017 9:19:07 AM - Player - Player selects shop option --> AnswerText1 (UnityEngine.UI.Text)
+7/31/2017 9:19:20 AM - Player - Player selects shop option --> AnswerText2 (UnityEngine.UI.Text)
+7/31/2017 9:19:21 AM - Player - Player selects shop option --> AnswerText2 (UnityEngine.UI.Text)
+7/31/2017 9:19:23 AM - Player - Player selects shop option --> AnswerText1 (UnityEngine.UI.Text)
+7/31/2017 9:19:24 AM - Player - Player selects shop option --> AnswerText1 (UnityEngine.UI.Text)
+7/31/2017 9:19:25 AM - Player - Player selects shop option --> AnswerText1 (UnityEngine.UI.Text)
+-----
+7/31/2017 9:22:38 AM - Player - Player loads the game
+7/31/2017 9:22:39 AM - Player - Player enters Home
+7/31/2017 9:22:41 AM - Player - Player enters City Hall
+7/31/2017 9:22:52 AM - Player - Player selects shop option --> Definitely, what do I need to do?
+7/31/2017 9:22:52 AM - Player - Player selects shop option --> No problem, be back soon!
+7/31/2017 9:23:03 AM - Player - Player selects shop option --> You up to trade?
+7/31/2017 9:23:07 AM - Player - Player sells Overclock*0
+7/31/2017 9:23:07 AM - Player - Player sells VirusBeGone*0
+7/31/2017 9:23:07 AM - Player - Player sells WormBeGone*0
+7/31/2017 9:23:07 AM - Player - Player sells Invincibility10*0
+7/31/2017 9:23:07 AM - Player - Player buys Overclock*0
+7/31/2017 9:23:07 AM - Player - Player buys VirusBeGone*0
+7/31/2017 9:23:07 AM - Player - Player buys WormBeGone*0
+7/31/2017 9:23:07 AM - Player - Player buys Invincibility10*0
+7/31/2017 9:23:12 AM - Player - Player cancels transaction
+7/31/2017 9:23:13 AM - Player - Player selects shop option --> I am here to pick up the Mayor's medicine.
+7/31/2017 9:23:14 AM - Player - Player selects shop option --> I thought he paid in advance!
+7/31/2017 9:23:17 AM - Player - Player selects shop option --> That is annoying! I don't have any money, how I am supposed to pay?
+7/31/2017 9:23:18 AM - Player - Player selects shop option --> That seems a bit insecure, but I guess it helps out in times like these! How much money do I need?
+7/31/2017 9:23:18 AM - Player - Player selects shop option --> Will do!
+-----
+7/31/2017 9:24:26 AM - Player - Player loads the game
+7/31/2017 9:24:28 AM - Player - Player enters Home
+7/31/2017 9:24:29 AM - Player - Player enters City Hall
+7/31/2017 9:24:39 AM - Player - Player selects shop option --> Definitely, what do I need to do?
+7/31/2017 9:24:39 AM - Player - Player selects shop option --> No problem, be back soon!
+7/31/2017 9:24:49 AM - Player - Player selects shop option --> You up to trade?
+7/31/2017 9:24:51 AM - Player - Player sells Overclock*0
+7/31/2017 9:24:51 AM - Player - Player sells VirusBeGone*0
+7/31/2017 9:24:51 AM - Player - Player sells WormBeGone*0
+7/31/2017 9:24:51 AM - Player - Player sells Invincibility10*0
+7/31/2017 9:24:51 AM - Player - Player buys Overclock*1
+7/31/2017 9:24:51 AM - Player - Player buys VirusBeGone*0
+7/31/2017 9:24:51 AM - Player - Player buys WormBeGone*0
+7/31/2017 9:24:51 AM - Player - Player buys Invincibility10*0
+7/31/2017 9:24:52 AM - Player - Player cancels transaction
+7/31/2017 9:24:53 AM - Player - Player selects shop option --> I am here to pick up the Mayor's medicine.
+7/31/2017 9:24:54 AM - Player - Player selects shop option --> I thought he paid in advance!
+7/31/2017 9:24:55 AM - Player - Player selects shop option --> That is annoying! I don't have any money, how I am supposed to pay?
+7/31/2017 9:24:55 AM - Player - Player selects shop option --> That seems a bit insecure, but I guess it helps out in times like these! How much money do I need?
+7/31/2017 9:24:56 AM - Player - Player selects shop option --> Will do!
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
